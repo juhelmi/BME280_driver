@@ -128,7 +128,7 @@
 #define BME280_E_DEV_NOT_FOUND                    INT8_C(-4)
 #define BME280_E_SLEEP_MODE_FAIL                  INT8_C(-5)
 #define BME280_E_NVM_COPY_FAILED                  INT8_C(-6)
-#define BME280_E_DEV_OPEN_FAIL                 INT8_C(-7)
+#define BME280_E_DEV_OPEN_FAIL                    INT8_C(-7)
 #define BME280_E_DEV_ID_ADDR_FAIL                 INT8_C(-8)
 
 /*! @name API warning codes */
